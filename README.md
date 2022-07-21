@@ -4,7 +4,7 @@
 
 ![GitHub Licence](https://img.shields.io/github/license/Darkrove/Getting-started-with-Angular?color=blue&style=for-the-badge)
 ![Github Issues](https://img.shields.io/github/issues/Darkrove/Getting-started-with-Angular?style=for-the-badge)
-![Github Stars](https://img.shields.io/github/stars/Darkrove/Getting-started-with-Angular?color=indigo&style=for-the-badge)
+![Github Stars](https://img.shields.io/github/stars/Darkrove/Getting-started-with-Angular?color=yellow&logo=1&style=for-the-badge)
 
 ## What is StackBlitz?
 StackBlitz is an online IDE where you can create Angular & React projects that are immediately online & shareable via link… in just one click. 😮 It automatically takes care of installing dependencies, compiling, bundling, and hot reloading as you type.
