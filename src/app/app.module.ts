@@ -7,12 +7,18 @@ import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { ProductListComponent } from './product-list/product-list.component';
 import { ProductAlertsComponent } from './product-alerts/product-alerts.component';
+import { NoopAnimationsModule } from '@angular/platform-browser/animations';
+import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatIconModule } from '@angular/material/icon';
 
 @NgModule({
   imports: [
+    MatToolbarModule,
     BrowserModule,
+    MatIconModule,
     ReactiveFormsModule,
     RouterModule.forRoot([{ path: '', component: ProductListComponent }]),
+    NoopAnimationsModule,
   ],
   declarations: [
     AppComponent,
